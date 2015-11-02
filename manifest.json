@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2, 
+  "name": "gasmask",
+  "description": "Allows user to choose two background extensions to use at random",
+  "version": "1.0", 
+  "chrome_url_overrides": {
+    "newtab": "gasmask.html"
+  },
+  "permissions": [
+    "management",
+    "https://ajax.googleapis.com/"
+  ]
+}
