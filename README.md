@@ -1,5 +1,7 @@
 # gasmask
 
+[![Join the chat at https://gitter.im/zeeberry/gasmask](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/zeeberry/gasmask?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A chrome extension that randomly uses either animatedtabs or hitlist's extension on every new tab/window.
 
 ## How to use
