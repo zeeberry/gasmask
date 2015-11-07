@@ -3,11 +3,12 @@
   "name": "gasmask",
   "description": "Allows user to choose two background extensions to use at random",
   "version": "1.0", 
-  "chrome_url_overrides": {
-    "newtab": "gasmask.html"
+  "background": {
+    "scripts": ["gasmask.js"],
+    "persistent": false
   },
   "permissions": [
     "management",
-    "https://ajax.googleapis.com/"
+    "tabs"
   ]
 }
